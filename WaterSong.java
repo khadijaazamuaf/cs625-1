@@ -2,7 +2,7 @@ public class WaterSong {
 public static void main(String[] arg) {
 int waterNum =9;
 String word ="bottles";
-while (waterNum > 0)
+while (waterNum < 0)
 {
 if (waterNum==1)
 {
